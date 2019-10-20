@@ -11,4 +11,4 @@
 #$ -pe smp 32
 # -pe smp N: 並列環境オプション, cpuがNコア空いてるノードに投げ込まれる (空いているノードがなければキューに保持)
 
-sh example01.sh
+sh example.sh
