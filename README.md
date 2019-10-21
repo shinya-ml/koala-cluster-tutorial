@@ -3,7 +3,7 @@
 ## Usage
 - 各自koala00にログインしてこのリポジトリをcloneしてください
 ```console
-~$ git clone git@github.com:shinya-ml/koala-cluster-tutorial.git
+~$ git clone https://github.com/shinya-ml/koala-cluster-tutorial.git
 ~$ cd koala-cluster-tutorial
 ```
 
